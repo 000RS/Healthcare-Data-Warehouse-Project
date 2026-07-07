@@ -135,25 +135,25 @@ Examples include:
 
 ## OLTP Entity Relationship Diagram
 
-*(Insert screenshot from the `screenshots` folder.)*
+![OLTP](SCREENSHOTS/OLTP.png)
 
 ---
 
 ## OLAP Star Schema
 
-*(Insert screenshot from the `screenshots` folder.)*
+![OLAP](SCREENSHOTS/OLAP.png)
 
 ---
 
-## ETL Process
+## VALIDATION
 
-*(Insert screenshot from the `screenshots` folder.)*
+![VALIDATION](SCREENSHOTS/VALIDATION.png)
 
 ---
 
 ## Data Quality Log
 
-*(Insert screenshot from the `screenshots` folder.)*
+![DQLOG](SCREENSHOTS/DQLOG.png)
 
 ---
 
