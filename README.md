@@ -135,25 +135,25 @@ Examples include:
 
 ## OLTP Entity Relationship Diagram
 
-![OLTP](SCREENSHOTS/OLTP.png)
+![OLTP](SCREENSHOTS/OLTP.heic)
 
 ---
 
 ## OLAP Star Schema
 
-![OLAP](SCREENSHOTS/OLAP.png)
+![OLAP](SCREENSHOTS/OLAP.heic)
 
 ---
 
 ## VALIDATION
 
-![VALIDATION](SCREENSHOTS/VALIDATION.png)
+![VALIDATION](SCREENSHOTS/VALIDATION.heic)
 
 ---
 
 ## Data Quality Log
 
-![DQLOG](SCREENSHOTS/DQLOG.png)
+![DQLOG](SCREENSHOTS/DQLOG.heic)
 
 ---
 
